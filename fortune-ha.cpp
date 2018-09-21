@@ -7,6 +7,7 @@ using namespace std;
 
 vector<string> haSaying {
     "FuckQ",
+    "Give you color see see?",
     "Xi Baozi is dog",
     "一个城市的交响乐水平标志着这个城市的文明程度。",
     "我也祝你们大家春节愉快、阖家欢乐、万事如意。",
